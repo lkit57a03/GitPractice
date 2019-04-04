@@ -1,5 +1,7 @@
 This is just text
 We are awesome
 But I am more awesome
+Are you thirsty?
+Do you want some water?
 This is the text that I had edited on github.
 I want fries
